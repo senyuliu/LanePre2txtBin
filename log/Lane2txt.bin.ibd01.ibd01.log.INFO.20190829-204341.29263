@@ -1,0 +1,18 @@
+Log file created at: 2019/08/29 20:43:41
+Running on machine: ibd01
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0829 20:43:41.688362 29263 main.cpp:21] cmd: ls ./example/image//*.png
+I0829 20:43:41.688472 29263 laneprocess.cpp:148] ls ./example/image//*.png
+I0829 20:43:41.688475 29263 laneprocess.cpp:157] ./example/img2txt/
+I0829 20:43:41.688477 29263 laneprocess.cpp:5] CLaneProcess obj create finished!
+I0829 20:43:41.688479 29263 laneprocess.cpp:102] ls ./example/image//*.png
+I0829 20:43:41.885710 29263 laneprocess.cpp:203] vecTribPoints.size: 2
+I0829 20:43:41.885735 29263 laneprocess.cpp:216] patho: ./example/img2txt//46-1002120009190404144404500.txt
+I0829 20:43:41.964566 29263 laneprocess.cpp:203] vecTribPoints.size: 1
+I0829 20:43:41.964581 29263 laneprocess.cpp:216] patho: ./example/img2txt//46-1002120009190404144405000.txt
+I0829 20:43:42.050685 29263 laneprocess.cpp:203] vecTribPoints.size: 0
+I0829 20:43:42.050698 29263 laneprocess.cpp:206] get no result !
+I0829 20:43:42.135710 29263 laneprocess.cpp:203] vecTribPoints.size: 2
+I0829 20:43:42.135725 29263 laneprocess.cpp:216] patho: ./example/img2txt//46-1002120009190404144406000.txt
+I0829 20:43:42.221607 29263 laneprocess.cpp:203] vecTribPoints.size: 0
+I0829 20:43:42.221621 29263 laneprocess.cpp:206] get no result !
